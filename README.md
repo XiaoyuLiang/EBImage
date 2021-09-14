@@ -19,6 +19,5 @@ Once you install the package, you can access individual man pages by a call to, 
 See [my answers on Stack Overflow](http://stackoverflow.com/search?q=user%3A2792099+%09is%3Aanswer+EBimage).
 
 ## Bug reports and feature requests
-haha
 
 Bug reports, feature requests, or any other issues with the package should be reported at https://github.com/aoles/EBImage/issues.
